@@ -1,5 +1,6 @@
+// Third party imports:
 import { render, screen } from '@testing-library/react';
-import { expect } from 'vitest';
+// Local imports:
 import App from './App';
 
 describe('App component', () => {
